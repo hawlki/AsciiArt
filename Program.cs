@@ -19,8 +19,6 @@ namespace AsciiArt
             Console.WriteLine(" //(__)\\\\ ");
             Console.WriteLine(" ||    ||");
             Console.WriteLine();
-            Console.WriteLine("Consegui! kkkkk, eu tava com muita dificuldade mas de tanto tentar uma hora deu certo");
-            Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Clique em uma tecla para limpar a tela");
             Console.ReadKey();
